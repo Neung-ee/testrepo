@@ -1,3 +1,5 @@
 # testrepo
-##Studying Git Now....
-###created from Github
+## Studying Git Now....
+### created from Github
+
+# updated from master
