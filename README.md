@@ -1,0 +1,3 @@
+# testrepo
+##Studying Git Now....
+###created from Github
