@@ -2,4 +2,5 @@
 ## Studying Git Now....
 ### created from Github
 
-# updated from branch_a
+# updated from master & branch_a
+
